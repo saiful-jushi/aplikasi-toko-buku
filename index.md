@@ -51,13 +51,13 @@
                 <ul>
                     <li><a href="subpage.html">Buku Sekolah Dasar</a></li>
                     <li><a href="subpage.html">Buku SMP/SLTP</a></li>
-                    <li><a href="#">In sed risus ac feli</a></li>
-                    <li><a href="#">Aliquam tristique dolor</a></li>
-                    <li><a href="#">Maece nas metus</a></li>
-                    <li><a href="#">Sed pellentesque placerat</a></li>
-                    <li><a href="#">Suspen disse</a></li>
-                    <li><a href="#">Maece nas metus</a></li>
-                    <li><a href="#">In sed risus ac feli</a></li>
+                    <li><a href="#">Buku SMA/SMU</a></li>
+                    <li><a href="#">Buku SMK/STM</a></li>
+                    <li><a href="#">Buku Kuliah Hukum</a></li>
+                    <li><a href="#">Buku Kuliah Teknik</a></li>
+                    <li><a href="#">Buku Kuliah Pendidikan</a></li>
+                    <li><a href="#">Buku Sastra</a></li>
+                    <li><a href="#">Buku Sejarah</a></li>
             	</ul>
             </div>
 			<div class="templatemo_content_left_section">
