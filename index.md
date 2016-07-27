@@ -49,8 +49,8 @@
         	<div class="templatemo_content_left_section">
             	<h1>Categories</h1>
                 <ul>
-                    <li><a href="subpage.html">Donec accumsan urna</a></li>
-                    <li><a href="subpage.html">Proin vulputate justo</a></li>
+                    <li><a href="subpage.html">Buku Sekolah Dasar</a></li>
+                    <li><a href="subpage.html">Buku SMP/SLTP</a></li>
                     <li><a href="#">In sed risus ac feli</a></li>
                     <li><a href="#">Aliquam tristique dolor</a></li>
                     <li><a href="#">Maece nas metus</a></li>
@@ -66,12 +66,12 @@
                     <li><a href="#">Buku Sekolah Dasar</a></li>
                     <li><a href="#">Buku SMP/SLTP</a></li>
                     <li><a href="#">Buku SMA/SMU</a></li>
-                    <li><a href="#">Praesent mattis varius</a></li>
-                    <li><a href="#">Maece nas metus</a></li>
-                    <li><a href="#">In sed risus ac feli</a></li>
-                    <li><a href="#">Flash Templates</a></li>
-                    <li><a href="#">CSS Templates</a></li>
-                    <li><a href="#">Web Design</a></li>
+                    <li><a href="#">Buku SMK/STM</a></li>
+                    <li><a href="#">Buku Kuliah Hukum</a></li>
+                    <li><a href="#">Buku Kuliah Teknik</a></li>
+                    <li><a href="#">Buku Kuliah Pendidikan></li>
+                    <li><a href="#">Buku Sastra</a></li>
+                    <li><a href="#">Buku Sejarah</a></li>
                     <li><a href="http://www.photovaco.com" target="_parent">Free Photos</a></li>
             	</ul>
             </div>
