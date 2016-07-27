@@ -15,11 +15,11 @@
 	<div id="templatemo_menu">
     	<ul>
             <li><a href="index.html" class="current">Beranda</a></li>
-            <li><a href="subpage.html">Search</a></li>
-            <li><a href="subpage.html">Books</a></li>            
-            <li><a href="subpage.html">New Releases</a></li>  
-            <li><a href="#">Company</a></li> 
-            <li><a href="#">Contact</a></li>
+            <li><a href="subpage.html">Cari</a></li>
+            <li><a href="subpage.html">Buku</a></li>            
+            <li><a href="subpage.html">Rilis Baru</a></li>  
+            <li><a href="#">Perusahaan</a></li> 
+            <li><a href="#">Kontak</a></li>
     	</ul>
     </div> <!-- end of menu -->
     
@@ -35,9 +35,9 @@
         
         <div id="templatemo_new_books">
         	<ul>
-                <li>Suspen disse</li>
-                <li>Maece nas metus</li>
-                <li>In sed risus ac feli</li>
+                <li>Novel AADC 2</li>
+                <li>Novel Kuala Kumal</li>
+                <li>Novel Hikayat Cinta</li>
             </ul>
             <a href="subpage.html" style="margin-left: 50px;">Read more...</a>
         </div>
@@ -63,15 +63,15 @@
 			<div class="templatemo_content_left_section">
             	<h1>Bestsellers</h1>
                 <ul>
-                    <li><a href="#">Buku Sekolah Dasar</a></li>
-                    <li><a href="#">Buku SMP/SLTP</a></li>
-                    <li><a href="#">Buku SMA/SMU</a></li>
-                    <li><a href="#">Buku SMK/STM</a></li>
-                    <li><a href="#">Buku Kuliah Hukum</a></li>
-                    <li><a href="#">Buku Kuliah Teknik</a></li>
-                    <li><a href="#">Buku Kuliah Pendidikan></li>
-                    <li><a href="#">Buku Sastra</a></li>
-                    <li><a href="#">Buku Sejarah</a></li>
+                    <li><a href="#">Kalkulus</a></li>
+                    <li><a href="#">RPAL</a></li>
+                    <li><a href="#">RPUL</a></li>
+                    <li><a href="#">Pepak Jawa</a></li>
+                    <li><a href="#">IPA (Pengetahuan Alam)</a></li>
+                    <li><a href="#">IPS (Pengetahuan Sosial)</a></li>
+                    <li><a href="#">Kumpulan Rumus Matematika></li>
+                    <li><a href="#">Kumpulan Rumus Fisika</a></li>
+                    <li><a href="#">Pengetahuan Bahan dan Material</a></li>
                     <li><a href="http://www.photovaco.com" target="_parent">Free Photos</a></li>
             	</ul>
             </div>
@@ -92,10 +92,10 @@ alt="Valid CSS!" vspace="8" border="0" /></a>
         
         <div id="templatemo_content_right">
         	<div class="templatemo_product_box">
-            	<h1>Photography  <span>(by Best Author)</span></h1>
+            	<h1>Photography  <span>(oleh Sujono)</span></h1>
    	      <img src="images/templatemo_image_01.jpg" alt="image" />
                 <div class="product_info">
-                	<p>Etiam luctus. Quisque facilisis suscipit elit. Curabitur...</p>
+                	<p>foto panorama alam, foto Hewan, Foto Model dan Foto Bunga</p>
                   <h3>$55</h3>
                     <div class="buy_now_button"><a href="subpage.html">Buy Now</a></div>
                     <div class="detail_button"><a href="subpage.html">Detail</a></div>
@@ -109,7 +109,7 @@ alt="Valid CSS!" vspace="8" border="0" /></a>
             	<h1>Cooking  <span>(oleh ibu sariem)</span></h1>
        	    <img src="images/templatemo_image_02.jpg" alt="image" />
                 <div class="product_info">
-                	<p>Aliquam a dui, ac magna quis est eleifend dictum.</p>
+                	<p>Masakan Jawa Timur, Padang, Selawesi dan Papua</p>
                     <h3>$35</h3>
                     <div class="buy_now_button"><a href="subpage.html">Buy Now</a></div>
                     <div class="detail_button"><a href="subpage.html">Detail</a></div>
@@ -120,10 +120,12 @@ alt="Valid CSS!" vspace="8" border="0" /></a>
             <div class="cleaner_with_height">&nbsp;</div>
             
             <div class="templatemo_product_box">
-            	<h1>Gardening <span>(by Famous Author)</span></h1>
+            	<h1>Gardening <span>(oleh Fajri)</span></h1>
    	      <img src="images/templatemo_image_03.jpg" alt="image" />
                 <div class="product_info">
-                	<p>Ut fringilla enim sed turpis. Sed justo dolor, convallis at.</p>
+                	<p>Aneka buku berisi uraian konsep taman yang indah dan menarik untuk obyek 
+
+fotografi</p>
                     <h3>$65</h3>
                     <div class="buy_now_button"><a href="subpage.html">Buy Now</a></div>
                     <div class="detail_button"><a href="subpage.html">Detail</a></div>
@@ -134,10 +136,12 @@ alt="Valid CSS!" vspace="8" border="0" /></a>
             <div class="cleaner_with_width">&nbsp;</div>
             
             <div class="templatemo_product_box">
-            	<h1>Sushi Book  <span>(by Japanese Name)</span></h1>
+            	<h1>Sushi Book  <span>(by Ichiraku)</span></h1>
             	<img src="images/templatemo_image_04.jpg" alt="image" />
                 <div class="product_info">
-                	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+                	<p>Pengetahuan membuat masakan ala jepang yaitu shusi dengan berbagai macam 
+
+isi yang yahuuuut... </p>
                     <h3>$45</h3>
                     <div class="buy_now_button"><a href="subpage.html">Buy Now</a></div>
                     <div class="detail_button"><a href="subpage.html">Detail</a></div>
