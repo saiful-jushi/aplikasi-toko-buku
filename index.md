@@ -1,6 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
-
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -77,16 +75,8 @@
             </div>
             
             <div class="templatemo_content_left_section">                
-                <a href="http://validator.w3.org/check?uri=referer"><img 
-
-style="border:0;width:88px;height:31px" src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 
-
-1.0 Transitional" width="88" height="31" vspace="8" border="0" /></a>
-<a href="http://jigsaw.w3.org/css-validator/check/referer"><img 
-
-style="border:0;width:88px;height:31px"  src="http://jigsaw.w3.org/css-validator/images/vcss-blue" 
-
-alt="Valid CSS!" vspace="8" border="0" /></a>
+                <a href="http://validator.w3.org/check?uri=referer"><img style="border:0;width:88px;height:31px" src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" width="88" height="31" vspace="8" border="0" /></a>
+<a href="http://jigsaw.w3.org/css-validator/check/referer"><img style="border:0;width:88px;height:31px"  src="http://jigsaw.w3.org/css-validator/images/vcss-blue" alt="Valid CSS!" vspace="8" border="0" /></a>
 			</div>
         </div> <!-- end of content left -->
         
@@ -123,9 +113,7 @@ alt="Valid CSS!" vspace="8" border="0" /></a>
             	<h1>Gardening <span>(oleh Fajri)</span></h1>
    	      <img src="images/templatemo_image_03.jpg" alt="image" />
                 <div class="product_info">
-                	<p>Aneka buku berisi uraian konsep taman yang indah dan menarik untuk obyek 
-
-fotografi</p>
+                	<p>Aneka buku berisi uraian konsep taman yang indah dan menarik untuk obyek fotografi</p>
                     <h3>$65</h3>
                     <div class="buy_now_button"><a href="subpage.html">Buy Now</a></div>
                     <div class="detail_button"><a href="subpage.html">Detail</a></div>
@@ -139,9 +127,7 @@ fotografi</p>
             	<h1>Sushi Book  <span>(by Ichiraku)</span></h1>
             	<img src="images/templatemo_image_04.jpg" alt="image" />
                 <div class="product_info">
-                	<p>Pengetahuan membuat masakan ala jepang yaitu shusi dengan berbagai macam 
-
-isi yang yahuuuut... </p>
+                	<p>Pengetahuan membuat masakan ala jepang yaitu shusi dengan berbagai macam isi yang yahuuuut... </p>
                     <h3>$45</h3>
                     <div class="buy_now_button"><a href="subpage.html">Buy Now</a></div>
                     <div class="detail_button"><a href="subpage.html">Detail</a></div>
@@ -159,11 +145,7 @@ isi yang yahuuuut... </p>
     
     <div id="templatemo_footer">
     
-	       <a href="subpage.html">Home</a> | <a href="subpage.html">Search</a> | <a 
-
-href="subpage.html">Books</a> | <a href="#">New Releases</a> | <a href="#">FAQs</a> | <a 
-
-href="#">Contact Us</a><br />
+	       <a href="subpage.html">Home</a> | <a href="subpage.html">Search</a> | <a href="subpage.html">Books</a> | <a href="#">New Releases</a> | <a href="#">FAQs</a> | <a href="#">Contact Us</a><br />
         Copyright © 2024 <a href="#"><strong>Saiful Book Store</strong></a> 
         <!-- Credit: www.templatemo.com -->	</div> 
     <!-- end of footer -->
